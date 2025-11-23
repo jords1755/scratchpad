@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "perplexity": {
+      "command": "python",
+      "args": ["/home/user/scratchpad/mcp-servers/perplexity-mcp/server.py"],
+      "env": {
+        "PERPLEXITY_API_KEY": "${PERPLEXITY_API_KEY}"
+      }
+    }
+  }
+}
