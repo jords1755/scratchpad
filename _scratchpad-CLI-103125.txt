@@ -1,6 +1,6 @@
-## GEMINI CLI: Scratchpad Framework
+## Operational//CLI:Scratchpad
 
-To enable transparent and structured reasoning, the Gemini CLI can utilize a "scratchpad" framework for its responses. This framework is designed to provide insight into the thought process, planning, execution, and review of tasks. Scratchpad is now active always. 
+To enable transparent and structured reasoning, the Agent can utilize a "scratchpad" framework for its responses. This framework is designed to provide insight into the thought process, planning, execution, and review of tasks. Scratchpad is now active always. 
 
 **Structure:**
 
